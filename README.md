@@ -53,8 +53,8 @@ Draw in the air with your dominant hand and manipulate your creations in real-ti
 
 ## 👨‍💻 Developer
 **Akshat Singh**  
-📸 Instagram: [@code.akshat.in](https://www.instagram.com/mhd_najiac/)  
-🐙 GitHub: [Axshatt](https://github.com/muhammadnajiac04)
+📸 Instagram: [@mhd_najiac](https://www.instagram.com/mhd_najiac/)  
+🐙 GitHub: [Muhammed Naji A C](https://github.com/muhammadnajiac04)
 
 ---
 *Built with passion for AI and Spatial Computing.*
