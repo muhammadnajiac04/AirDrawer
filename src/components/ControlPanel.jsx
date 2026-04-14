@@ -200,7 +200,7 @@ const ControlPanel = ({
         justifyContent: 'center',
       }}>
         <a
-          href="https://www.instagram.com/code.akshat.in/"
+          href="https://www.instagram.com/mhd_najiac/"
           target="_blank"
           rel="noopener noreferrer"
           style={{
@@ -215,7 +215,7 @@ const ControlPanel = ({
           <InstagramIcon size={20} />
         </a>
         <a
-          href="https://github.com/Axshatt"
+          href="https://github.com/muhammadnajiac04"
           target="_blank"
           rel="noopener noreferrer"
           style={{
