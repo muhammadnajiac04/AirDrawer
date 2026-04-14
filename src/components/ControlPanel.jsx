@@ -235,7 +235,7 @@ const ControlPanel = ({
           fontWeight: 500,
           letterSpacing: '0.05em',
         }}>
-          @code.akshat.in
+          @muhammadnajiac04
         </span>
       </div>
     </div>
